@@ -11,7 +11,7 @@ Example that you should add :
 ```html
 <li>
     <h3>
-      <a class="post-link" href="https://github.com/VagNta/Biografiko/">
+      <a class="post-link" href="https://vagnta.github.io/Biografiko/">
         Somebody X  <!-- Ntaoutis Evaggelos -->
       </a>
     </h3>
